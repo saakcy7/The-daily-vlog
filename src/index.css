@@ -54,3 +54,30 @@
   color:  #ef9999;
   margin-bottom: 8px;
 }
+
+.blog-preview a {
+  text-decoration: none;
+}
+
+.blog-details h2 {
+  margin-bottom: 10px;
+  font-size: 32px;
+  color: #ef9999;
+}
+
+.blog-details p {
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.blog-details div{
+  margin: 20px 0;
+}
+.blog-details button{
+  padding: 10px 20px;
+  background-color: #ef9999;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
