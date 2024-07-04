@@ -81,3 +81,45 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
+.create{
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label{
+  display: block;
+  text-align: left;
+}
+
+.create h2{
+  margin-bottom: 20px;
+  color: #ef9999;
+  font-size: larger;
+
+}
+
+.create input, .create textarea, .create select{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ef9999;
+  box-sizing: border-box;
+  display: block;
+}
+
+.create button{
+  padding: 10px 20px;
+  background-color: #ef9999;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.create button:hover{
+  background-color: #e47474;
+}
+
+
