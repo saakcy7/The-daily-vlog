@@ -20,8 +20,7 @@ npm (version 6.x or later) or yarn (version 1.x or later)
 # Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/blog-app.git
-cd blog-app
+git clone https://github.com/saakcy7/The-daily-vlog.git
 
 # Install the dependencies:
 
