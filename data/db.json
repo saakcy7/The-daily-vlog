@@ -1,22 +1,58 @@
 {
-    "blogs":[
-        {
-            "id":1,
-            "title":"My First Blog",
-            "content":"Why I started blogging?I started blogging because I wanted to share my thoughts and ideas with the world. I also wanted to connect with other people who have similar interests as me. Blogging has been a great way for me to express myself and learn new things. I have met so many amazing people through blogging and I am grateful for the opportunities it has given me. I hope to continue blogging for many years to come and I am excited to see where this journey takes me.",
-            "author":"John Doe"
-        },
-        {
-            "id":2,
-            "title":"Life of a Blogger",
-            "content":"It is not easy being a blogger. There are so many things to think about and so many decisions to make. You have to come up with new ideas for blog posts, write engaging content, and promote your blog on social media. It can be overwhelming at times, but it is also incredibly rewarding. Blogging has allowed me to connect with people from all over the world and share my thoughts and ideas with them. It has given me a platform to express myself and learn new things. I am grateful for the opportunities that blogging has given me and I am excited to see where this journey takes me.",
-            "author":"Jane bloggs"
-        },
-        {
-            "id":3,
-            "title":"Skepticism",
-            "content":"Skepticism is the practice of questioning the validity of claims before accepting them as true. It is an important part of critical thinking and scientific inquiry. Skepticism is not the same as cynicism, which is the belief that people are motivated purely by self-interest. Skepticism is about being open-minded and willing to consider new evidence and arguments. It is about being willing to change your mind when presented with new information. Skepticism is an essential part of being a rational and critical thinker.",
-            "author":"Sharon Smith"
-        }
-    ]
+  "blogs": [
+    {
+      "id": "1",
+      "title": "My First Blog",
+      "body": "Why I started blogging?I started blogging because I wanted to share my thoughts and ideas with the world. I also wanted to connect with other people who have similar interests as me. Blogging has been a great way for me to express myself and learn new things. I have met so many amazing people through blogging and I am grateful for the opportunities it has given me. I hope to continue blogging for many years to come and I am excited to see where this journey takes me.",
+      "author": "John Doe"
+    },
+    {
+      "id": "2",
+      "title": "Life of a Blogger",
+      "body": "It is not easy being a blogger. There are so many things to think about and so many decisions to make. You have to come up with new ideas for blog posts, write engaging content, and promote your blog on social media. It can be overwhelming at times, but it is also incredibly rewarding. Blogging has allowed me to connect with people from all over the world and share my thoughts and ideas with them. It has given me a platform to express myself and learn new things. I am grateful for the opportunities that blogging has given me and I am excited to see where this journey takes me.",
+      "author": "Jane bloggs"
+    },
+    {
+      "id": "3",
+      "title": "Skepticism",
+      "body": "Skepticism is the practice of questioning the validity of claims before accepting them as true. It is an important part of critical thinking and scientific inquiry. Skepticism is not the same as cynicism, which is the belief that people are motivated purely by self-interest. Skepticism is about being open-minded and willing to consider new evidence and arguments. It is about being willing to change your mind when presented with new information. Skepticism is an essential part of being a rational and critical thinker.",
+      "author": "Sharon Smith"
+    },
+    {
+      "id": "5269",
+      "title": "sakshi",
+      "body": "hello i am sakshi",
+      "author": "yoshi"
+    },
+    {
+      "id": "2833",
+      "title": "life",
+      "body": "life is death",
+      "author": "sakshi"
+    },
+    {
+      "id": "57f2",
+      "title": "death",
+      "body": "death is death",
+      "author": "hari"
+    },
+    {
+      "id": "4144",
+      "title": "death",
+      "body": "death is death",
+      "author": "hari"
+    },
+    {
+      "id": "bcd4",
+      "title": "death",
+      "body": "death is death",
+      "author": "hari"
+    },
+    {
+      "id": "72f7",
+      "title": "death",
+      "body": "death is death",
+      "author": "hari"
+    }
+  ]
 }

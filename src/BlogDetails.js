@@ -11,7 +11,7 @@ return(
             <article>
                 <h2>{blog.title}</h2>
                 <p>Written by {blog.author}</p>
-                <div>{blog.content}</div>
+                <div>{blog.body}</div>
             </article>
         )}
         </div>
