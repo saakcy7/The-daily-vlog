@@ -5,7 +5,9 @@ This is a React application that allows users to add blogs and see the updated l
 # Features
 
 Add Blog: Users can add new blog posts with a title and content.
+
 View Blogs: Users can view a list of all the blog posts.
+
 Responsive Design: The application is responsive and works well on different screen sizes.
 
 # Getting Started
@@ -15,6 +17,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 Make sure you have the following installed on your local machine:
 
 Node.js (version 14.x or later)
+
 npm (version 6.x or later) or yarn (version 1.x or later)
 
 # Installation
@@ -29,6 +32,7 @@ npm install
 # Running the Application
 
 To run the application in development mode, use the following command:
+
 npm start
 
 # Acknowledgments
