@@ -17,6 +17,7 @@
 
 .navbar h1 {
   color: rgb(99, 99, 232);
+  font-size: 32px;
 }
 .navbar .links {
   margin-left: auto;
