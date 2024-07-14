@@ -31,10 +31,17 @@ npm install
 
 # Running the Application
 
-To run the application in development mode, use the following command:
+To run the application in development mode, use the following command
 
 npm start
 
 # Acknowledgments
 
 This project was bootstrapped with Create React App.
+
+# Preview:
+
+![image](https://github.com/user-attachments/assets/bfe33a6c-5427-49e6-ab5a-942c6e943640)
+
+
+
