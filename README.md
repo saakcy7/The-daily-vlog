@@ -41,7 +41,19 @@ This project was bootstrapped with Create React App.
 
 # Preview:
 
+## Home Page
+
 ![image](https://github.com/user-attachments/assets/bfe33a6c-5427-49e6-ab5a-942c6e943640)
+
+## Blog
+
+![image](https://github.com/user-attachments/assets/f205a805-4165-4248-92bf-c729bbf0429e)
+
+## Writing Blog
+
+![image](https://github.com/user-attachments/assets/abd18ec9-7d1a-4e50-98de-3ed4beb73b5e)
+
+
 
 
 
